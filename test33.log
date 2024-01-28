@@ -1,0 +1,8 @@
+INFO:root:log this line of exuction
+WARNING:root:this i swarnning 
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:log this line of exuction
+WARNING:root:this i swarnning 
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
